@@ -1,2 +1,11 @@
 # CRUD-APP
-A basic CRUD Book Management System api app build with the help of REST API and MySql Database 
+A basic REST API CRUD Book Management System 
+
+The Technologies used are 
+1. MySql
+2. Flask
+3. Python
+4. Vs Code
+
+
+
